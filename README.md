@@ -1,4 +1,5 @@
-My First Assembly Language Project<br>
+My First Assembly Language Project
+
 🎮 Snake Game – x86 Assembly Language (BIOS Interrupts)
 My Contributions:
 
